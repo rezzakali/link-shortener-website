@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/link-shortener-website/static/css/main.d7cf9307.css",
+    "main.js": "/link-shortener-website/static/js/main.5e385cab.js",
+    "static/js/787.54b3b013.chunk.js": "/link-shortener-website/static/js/787.54b3b013.chunk.js",
+    "index.html": "/link-shortener-website/index.html",
+    "main.d7cf9307.css.map": "/link-shortener-website/static/css/main.d7cf9307.css.map",
+    "main.5e385cab.js.map": "/link-shortener-website/static/js/main.5e385cab.js.map",
+    "787.54b3b013.chunk.js.map": "/link-shortener-website/static/js/787.54b3b013.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7cf9307.css",
+    "static/js/main.5e385cab.js"
+  ]
+}
